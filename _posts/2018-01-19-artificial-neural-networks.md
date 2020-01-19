@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Soccer
-subtitle: Best sport ever!
+title: Artificial Neural Networks
+subtitle: Feed-forward and backpropagation
 ---
 
 From Wikipedia:
