@@ -175,7 +175,7 @@ function update() {
 
 canvas.addEventListener('mousemove', function(e){
   mouse.x = e.clientX;
-  mouse.y = e.clientY;
+  mouse.y = e.clientY - (e.screenY-e.clientY);
 });
 
 // Update and draw
