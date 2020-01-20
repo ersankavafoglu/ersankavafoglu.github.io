@@ -2,6 +2,7 @@
 layout: post
 title: Artificial Neural Networks
 subtitle: Feed-forward and backpropagation
+published: false
 ---
 
 From Wikipedia:
