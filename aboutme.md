@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Ersan Kavafoğlu
 subtitle: M.Sc., Senior Software Engineer
 ---
 
