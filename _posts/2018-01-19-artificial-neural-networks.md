@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Artificial Neural Networks
+title: 'Simple Artificial Neural Networks in C#'
 subtitle: Feed-forward and backpropagation
 published: false
 ---
